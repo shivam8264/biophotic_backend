@@ -14,17 +14,17 @@ CORS(app)
 
 # Load ML model and components
 try:
-    model = joblib.load('../plant_health_model.pkl')
-    scaler = joblib.load('../scaler.pkl')
+    model = joblib.load('./plant_health_model.pkl')
+    scaler = joblib.load('./scaler.pkl')
     
-    with open('../optimal_ranges.json', 'r') as f:
+    with open('./optimal_ranges.json', 'r') as f:
         optimal_ranges = json.load(f)
     
-    with open('../features.json', 'r') as f:
+    with open('./features.json', 'r') as f:
         features = json.load(f)
     
     # Load training data
-    df = pd.read_csv('../plant_health_data.csv')
+    df = pd.read_csv('./plant_health_data.csv')
     
     print("✅ Model and components loaded successfully!")
     
