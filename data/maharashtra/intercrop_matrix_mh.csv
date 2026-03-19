@@ -1,0 +1,16 @@
+primary_crop,secondary_crop,region,sowing_ratio,planting_pattern,benefits,nutrient_exchange,water_synergy,profit_increase_%
+Cotton,Green_Gram,Vidarbha,6:2,Border cropping,Early income, fixes N,Low competition,25-30
+Cotton,Soybean,Vidarbha,4:2,Paired rows,N fixation,Shade tolerance,Moderate,20-25
+Soybean,Pigeon_Pea,Vidarbha,4:1,Strip cropping,Different maturity,Fixes N,Low,15-20
+Sorghum,Pigeon_Pea,Marathwada,3:1,Alternate rows,Drought escape,Deep nutrient mining,High,30-35
+Maize,Soybean,Khandesh,2:1,Paired rows,N fixation,Canopy complementarity,Medium,20-25
+Sugarcane,Onion,Western_MH,2:1,Inter rows,Early income,Pest repellent,High,40-50
+Sugarcane,Potato,Western_MH,2:1,Inter rows,Early income,Soil loosening,Medium,35-45
+Groundnut,Pearl_Millet,Marathwada,6:2,Strip cropping,Drought tolerance,Fixes N,High,20-25
+Sunflower,Chickpea,Marathwada,2:1,Paired rows,Oil+protein,Deep+shallow roots,Medium,25-30
+Rice,Azolla,Konkan,1:0,Surface cover,N fixation,Weed suppression,High,15-20
+Grapes,Green_Gram,Nashik,1:Inter-row,Extra income,Fixes N,Low,10-15
+Onion,Radish,Nashik,4:1,Alternate rows,Space utilization,Different depth,Low,20-25
+Tomato,Marigold,All regions,5:1,Border rows,Nematode control,None,Medium,15-20
+Chickpea,Linseed,Rabi_all,8:2,Strip cropping,Oil+protein,Disease break,Low,20-25
+Wheat,Mustard,Rabi_all,8:1,Strip cropping,Oil+grains,P mobilizer,Low,15-20

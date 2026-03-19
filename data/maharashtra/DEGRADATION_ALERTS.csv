@@ -1,0 +1,5 @@
+alert_level,degradation_index_range,actions_required,time_to_recover
+Normal,0-0.3,Continue monitoring,0-6 months
+Warning,0.3-0.5,Adjust fertilization,6-12 months
+Critical,0.5-0.7,Change cropping pattern,12-24 months
+Severe,0.7-1.0,Soil reclamation needed,>24 months

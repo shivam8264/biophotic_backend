@@ -1,0 +1,7 @@
+zone_id,zone_name,districts_covered,soil_type,rainfall_range_mm,dominant_crops,intercrop_recommendations,special_features
+Z1,Vidarbha_Region,Nagpur,Wardha,Bhandara,Chandrapur,Gadchiroli,Gondia,Black_Cotton,800-1200,Cotton,Soybean,Pigeon_Pea,Orange,"Cotton+Green_Gram (6:2), Soybean+Pigeon_Pea (4:1)",High clay, cracks in summer
+Z2,Marathwada,Aurangabad,Jalna,Beed,Latur,Nanded,Osmanabad,Medium_Black,600-900,Sorghum,Soybean,Bengal_Gram,Sunflower,"Sorghum+Pigeon_Pea (3:1), Sunflower+Chickpea",Frequent droughts
+Z3,Western_Maharashtra,Pune,Satara,Sangli,Kolhapur,Solapur,Deep_Black,400-800,Sugarcane,Grapes,Onion,Tomato,"Sugarcane+Onion (2:1), Sugarcane+Potato",Good irrigation
+Z4,Konkan_Coastal,Raigad,Ratnagiri,Sindhudurg,Thane,Coastal_Lateritic,2500-4000,Rice,Coconut,Cashew,Mango,"Rice+Fish, Rice+Azolla",High rainfall, acidic soils
+Z5,Khandesh,Dhule,Jalgaon,Nandurbar,Medium_Black,500-700,Cotton,Banana,Maize,Chickpea,"Cotton+Cowpea (8:2), Maize+Soybean (2:1)",Medium rainfall
+Z6,Nashik_Region,Nashik,Ahmednagar,Shallow_Black,550-800,Grapes,Onion,Garlic,Bajra,"Grape+Moong (inter-row), Onion+Radish",Horticulture zone

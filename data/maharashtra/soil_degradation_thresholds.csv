@@ -1,0 +1,11 @@
+parameter,critical_low,optimal_range,critical_high,degradation_impact,recovery_time_months
+pH,<5.5,6.0-7.5,>8.5,Nutrient lockup,12-24
+OC_%,<0.5,0.8-1.2,>3.0,Poor structure,24-36
+N_kg_ha,<200,250-350,>600,Deficiency/excess,6-12
+P_kg_ha,<10,15-25,>50,Fixation/toxicity,12-18
+K_kg_ha,<150,200-300,>600,Imbalance,6-12
+Zn_ppm,<0.5,0.8-2.0,>5.0,Deficiency/toxicity,12-18
+Fe_ppm,<2.0,4.5-10.0,>20.0,Chlorosis/toxicity,6-12
+Sand_%,>85,35-55,<15,Drainage issues,Natural
+Clay_%,>60,20-35,<10,Compaction,Natural
+C:N_Ratio,>25:1,10:1-15:1,<8:1,N immobilization,6-12
